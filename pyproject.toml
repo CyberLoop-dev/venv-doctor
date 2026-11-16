@@ -1,0 +1,6 @@
+[project]
+name = "venv-doctor"
+version = "0.1.0"
+description = "Diagnose common Python environment issues by checking virtual-environment activation, interpreter paths, pip availability, and site-packages locations."
+requires-python = ">=3.10"
+license = "MIT"
